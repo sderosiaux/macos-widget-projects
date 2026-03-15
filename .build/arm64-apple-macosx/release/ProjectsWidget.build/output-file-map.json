@@ -1,0 +1,61 @@
+{
+  "": {
+    "dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ProjectsWidget.d",
+    "object": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ProjectsWidget.o",
+    "swift-dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/master.swiftdeps"
+  },
+  "/Users/sderosiaux/code/personal/macos-widget-projects/Sources/AppDelegate.swift": {
+    "object": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/AppDelegate.dia"
+  },
+  "/Users/sderosiaux/code/personal/macos-widget-projects/Sources/GitHubService.swift": {
+    "object": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/GitHubService.swift.o",
+    "swiftmodule": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/GitHubService~partial.swiftmodule",
+    "swift-dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/GitHubService.swiftdeps",
+    "diagnostics": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/GitHubService.dia"
+  },
+  "/Users/sderosiaux/code/personal/macos-widget-projects/Sources/Models.swift": {
+    "object": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/Models.swift.o",
+    "swiftmodule": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/Models.swiftdeps",
+    "diagnostics": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/Models.dia"
+  },
+  "/Users/sderosiaux/code/personal/macos-widget-projects/Sources/ProjectStore.swift": {
+    "object": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ProjectStore.swift.o",
+    "swiftmodule": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ProjectStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ProjectStore.swiftdeps",
+    "diagnostics": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ProjectStore.dia"
+  },
+  "/Users/sderosiaux/code/personal/macos-widget-projects/Sources/RepoRow.swift": {
+    "object": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/RepoRow.swift.o",
+    "swiftmodule": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/RepoRow~partial.swiftmodule",
+    "swift-dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/RepoRow.swiftdeps",
+    "diagnostics": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/RepoRow.dia"
+  },
+  "/Users/sderosiaux/code/personal/macos-widget-projects/Sources/ResizableWindow.swift": {
+    "object": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ResizableWindow.swift.o",
+    "swiftmodule": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ResizableWindow~partial.swiftmodule",
+    "swift-dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ResizableWindow.swiftdeps",
+    "diagnostics": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ResizableWindow.dia"
+  },
+  "/Users/sderosiaux/code/personal/macos-widget-projects/Sources/ResizeHandle.swift": {
+    "object": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ResizeHandle.swift.o",
+    "swiftmodule": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ResizeHandle~partial.swiftmodule",
+    "swift-dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ResizeHandle.swiftdeps",
+    "diagnostics": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/ResizeHandle.dia"
+  },
+  "/Users/sderosiaux/code/personal/macos-widget-projects/Sources/WidgetView.swift": {
+    "object": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/WidgetView.swift.o",
+    "swiftmodule": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/WidgetView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/WidgetView.swiftdeps",
+    "diagnostics": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/WidgetView.dia"
+  },
+  "/Users/sderosiaux/code/personal/macos-widget-projects/Sources/main.swift": {
+    "object": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/main.swift.o",
+    "swiftmodule": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/main.swiftdeps",
+    "diagnostics": "/Users/sderosiaux/code/personal/macos-widget-projects/.build/arm64-apple-macosx/release/ProjectsWidget.build/main.dia"
+  }
+}

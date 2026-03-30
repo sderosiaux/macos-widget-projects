@@ -20,11 +20,11 @@ enum GitHubService {
 
         let fields = "name,nameWithOwner,pushedAt,defaultBranchRef,issues,url,description,primaryLanguage,isPrivate"
 
-        let command = "gh repo list --json \(fields) --limit 50 --source > \(tmpFile.path)"
+        let command = "/opt/homebrew/bin/gh repo list --json \(fields) --limit 50 --source > \(tmpFile.path)"
 
         let process = Process()
         process.executableURL = URL(fileURLWithPath: "/bin/zsh")
-        process.arguments = ["-c", command]
+        process.arguments = ["-lc", command]
         process.standardOutput = FileHandle.nullDevice
         process.standardError = FileHandle.nullDevice
 
